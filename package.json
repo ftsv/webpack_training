@@ -1,0 +1,24 @@
+{
+  "name": "webpack_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftsv/webpack_training.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Denis F <ftsvd@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftsv/webpack_training/issues"
+  },
+  "homepage": "https://github.com/ftsv/webpack_training#readme"
+}
