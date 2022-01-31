@@ -20,6 +20,11 @@ module.exports = {
             '@models': path.resolve(__dirname, 'src/models'),
         }
     },
+    optimization: {
+        splitChunks: {
+            chunks: 'all',
+        }
+    },
     plugins: [
         new HTMLWebpackPlugin({
             template: './index.html',
